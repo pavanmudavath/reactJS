@@ -1,8 +1,10 @@
 import React from 'react'
-
+import Calculator from './BasicProjects/Calculator.jsx'
 const App = () => {
   return (
-    <div>App</div>
+    <div>
+      <Calculator/>
+    </div>
   )
 }
 
