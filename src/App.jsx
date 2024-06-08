@@ -1,9 +1,9 @@
-import React from 'react'
-import Calculator from './BasicProjects/Calculator.jsx'
+
+import Clock from "./BasicProjects/Clock"
 const App = () => {
   return (
     <div>
-      <Calculator/>
+      <Clock/>
     </div>
   )
 }
