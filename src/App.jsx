@@ -1,9 +1,8 @@
-
-import ExpenseTracker from "./BasicProjects/ExpenseTracker"
+import QuizApp from "./BasicProjects/QuizApp"
 const App = () => {
   return (
     <div>
-      <ExpenseTracker/>
+      <QuizApp/>
     </div>
   )
 }
