@@ -1,9 +1,9 @@
 
-import Clock from "./BasicProjects/Clock"
+import ExpenseTracker from "./BasicProjects/ExpenseTracker"
 const App = () => {
   return (
     <div>
-      <Clock/>
+      <ExpenseTracker/>
     </div>
   )
 }
